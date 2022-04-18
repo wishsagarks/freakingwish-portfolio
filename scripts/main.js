@@ -451,7 +451,7 @@
     data() {
       return {
         // the date my career started (change to yours)
-        careerStartDate: 2010,
+        careerStartDate: 2018,
         // the date copyright started (change to yours)
         copyrightStartDate: 2021,
         // for the template theme
@@ -509,83 +509,66 @@
         skillsType: '',
         // list of skills items to loop through it
         skillsItems: [{
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/XJg31stk/html-5.png',
           title: 'HTML5'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl:'https://i.postimg.cc/QCxD2p3G/css-3.png',
           title: 'CSS3'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/RZjMW6cK/js.png',
           title: 'JavaScript'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/k4Cqy0Y5/typescript.png',
           title: 'TypeScript'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/GpGbGLQN/javascript.png',
           title: 'jQuery'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/SxXSQ7zm/bootstrap.png',
           title: 'Bootstrap'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Angular'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
+        },{
+          imgUrl: 'https://i.postimg.cc/DypfKY0C/react.png',
           title: 'React'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/7YHb42VL/vue.png',
           title: 'Vue'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/wTjxZdqy/database.png',
           title: 'Firebase'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'PugJS'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
+        },  {
+          imgUrl: 'https://i.postimg.cc/kMcXT5mP/sass.png',
           title: 'SASS'
         }],
         // list of tools items to loop through it
         toolsItems: [{
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/rsQVsfJw/ajax.png',
           title: 'Ajax'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Gulp'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Webpack'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/cCs1dpfz/github.png',
+  
           title: 'Git (Github)'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/wj3vyYn8/120px-Npm-logo-svg.png',
           title: 'Npm'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/W3cbHFzT/command-line.png',
           title: 'Command Line'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/g2503BPw/visual-studio-code.png',
           title: 'VS Code'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Trello'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'ClickUp'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/1zq3Bc9v/slack.png',
           title: 'Slack'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
+          imgUrl: 'https://i.postimg.cc/bJ0NcySb/photoshop.png',
           title: 'Photoshop'
         }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Adobe XD'
+          imgUrl: 'https://i.postimg.cc/280ySSc7/inkscape.png',
+          title: 'Inkscape'
         }],
         // list of experience items to loop through it
         experienceItems: [{
-          date: '2010',
+          date: '2018',
           companyName: {
             en: 'Google Inc.',
             ar: 'شركة جوجل'
