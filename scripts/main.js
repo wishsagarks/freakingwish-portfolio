@@ -1613,10 +1613,10 @@
           }
         }, {
           id: 18,
-          url: 'single-portfolio.html?id=18',
-          imgUrl: 'https://via.placeholder.com/350x500',
+          url: 'https://functionoflicht.pages.dev/',
+          imgUrl: 'https://i.postimg.cc/ncmCnwqm/fol',
           title: {
-            en: 'Lorem Ipsum Dolor 18',
+            en: 'Function Of Licht',
             ar: 'هنا عنوان المشروع 18'
           },
           date: {
